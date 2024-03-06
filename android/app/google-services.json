@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100241751047",
+    "project_id": "dating-app-fad65",
+    "storage_bucket": "dating-app-fad65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100241751047:android:1550c0857822e742e8bea2",
+        "android_client_info": {
+          "package_name": "com.example.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BwOZv1M0eyW_kU7iscPw0HAX4-YQmps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
